@@ -1,7 +1,7 @@
 # Mystancodeproject
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.\
-Hangman Game\
+【Hangman Game】()\
  python semantics & syntax\
 Weather Master\
  python semantics & syntax\
@@ -14,4 +14,4 @@ Breakout Game\
 Name Popularity Searching System\
  data structure\
 Boggle Game Solver\
- recursive functions\
+ recursive functions
